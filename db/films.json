@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Inception",
+        "duration": 90,
+        "genre": "Sci-Fi",
+        "director": ""
+    },
+    {
+        "name": "Inception1",
+        "duration": 90,
+        "genre": "Sci-Fi",
+        "director": "Jijo"
+    },
+    {
+        "name": "The Longest Ride",
+        "duration": 128,
+        "genre": "Romance",
+        "director": "George Tillman, Jr."
+    }
+]

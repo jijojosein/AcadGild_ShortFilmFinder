@@ -1,5 +1,13 @@
 .search-box{
-    width: 70%;
+ /*   width: 70%;
     padding-left: 800px;
-    padding-top: 300px;
+    padding-top: 300px;*/
+}
+
+.movie-item{
+	border-bottom: 1px dotted #000;
+}
+
+.movie-item-name{
+	text-decoration: underline;
 }
